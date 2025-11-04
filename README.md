@@ -162,10 +162,3 @@ cat logs/spam_classifier.log
 - Increase `CONFIDENCE_THRESHOLD` in `config/model_config.py`
 - Retrain with more data
 
-## License
-
-This project is for educational purposes.
-
-## Author
-
-NLP Course Project
