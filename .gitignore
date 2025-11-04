@@ -1,0 +1,34 @@
+# Gmail API Credentials
+config/credentials.json
+config/token.json
+
+# Trained Models
+models/*.pkl
+
+# Logs
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dataset (optional - uncomment if you don't want to commit your dataset)
+# data/spam.csv
+# spam.csv
