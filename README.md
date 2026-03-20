@@ -155,7 +155,7 @@ cat logs/spam_classifier.log
 - Ensure `credentials.json` is in `config/` folder
 - Download from Google Cloud Console
 
-**"Model not found"**
+*"Model not found"**
 - Train the model first: `python models/trainer.py`
 
 **"High false positives"**
